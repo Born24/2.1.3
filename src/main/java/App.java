@@ -23,10 +23,6 @@ public class App {
         System.out.println(bean==bean2);
         System.out.println(cat==cat2);
 
-        System.out.println(bean);
-        System.out.println(bean2);
-        System.out.println();
-        System.out.println(cat);
-        System.out.println(cat2);
+
     }
 }
